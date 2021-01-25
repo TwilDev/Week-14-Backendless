@@ -1,0 +1,11 @@
+body {                /* prevent copy paste, to allow, change 'none' to 'text' */
+    background-color:#E4E4E4;
+    font-family: system-ui, -apple-system, -apple-system-font, 'Segoe UI', 'Roboto', sans-serif;
+}
+
+h1 {
+    color : black;
+}
+
+
+/* Landscape layout (with min-width) */
